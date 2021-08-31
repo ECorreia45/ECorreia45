@@ -1,3 +1,4 @@
+![ecorreia](https://github.com/ECorreia45/ECorreia45/blob/main/ecorreia-cover%402x.png)
 ### Hi, I'm Elson Correia 👋
 I am currently a Senior Software Engineer at [Universal Robots](https://www.universal-robots.com/) where I help push the boundaries of robotics software with fun and useful ideas implementation, architecture and research.
 
