@@ -20,3 +20,5 @@ I am also the founder of [Before Semicolon](https://beforesemicolon.com/), a spa
 
 - Find me on [Linkedin](https://www.linkedin.com/in/elsoncorreia/)
 - I am also on [Twitter](https://twitter.com/ecorreia__)
+
+[click here to loop](http://elsoncorreia.com/)
