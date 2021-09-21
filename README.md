@@ -15,6 +15,18 @@ I am also the founder of [Before Semicolon](https://beforesemicolon.com/), a spa
 | HTML / HMTL+  | | Firebase Services | Java |
 | React  | | Mongo / Mongo Atlas| Go |
 | Angular  | | | |
+| Vue  | | | |
+
+### Other Topics I Love;
+
+- Search Engine Optimization/Marketing;
+- User Experience;
+- Web Accessibility;
+- Software Architecture;
+- Cloud Computing and Architecture;
+- Serverless or Offline Applications;
+- Progressive Web Applications;
+- 3D Modeling and Programming;
 
 ### Let's get in touch 📫
 
