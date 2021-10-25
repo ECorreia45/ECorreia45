@@ -16,8 +16,8 @@ Check my Pinned projects below for more or my [Before Semicolon Repo](https://gi
 | ------------- | ------------- | ------------- | ------------- |
 | Javascript / Typescript  | React Native | Azure Services | Node |
 | CSS / SASS  | Swift | AWS Services | Python |
-| HTML / HMTL+  | | Firebase Services | Java |
-| React  | | Mongo / Mongo Atlas|  |
+| HTML / HMTL+  | | Mongo / Mongo Atlas | Java |
+| React  | | |  |
 | Angular  | | | |
 | Vue  | | | |
 
