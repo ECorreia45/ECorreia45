@@ -4,6 +4,12 @@ I am a Software Engineer passionate about building and sharing software toolings
 
 ---
 
+## Projects I am Currently Working on:
+- [Web Component Framework](https://github.com/beforesemicolon/web-component)
+- [HTML+ SSR Template Language and Site Builder](https://html-plus.beforesemicolon.com/)
+
+Check my Pinned projects below for more or my [Before Semicolon Repo](https://github.com/beforesemicolon)
+
 ### Here is the tech stack I am passionate about 💻 
 
 | Web Development | Mobile Development | Cloud Development | Backend
@@ -11,7 +17,7 @@ I am a Software Engineer passionate about building and sharing software toolings
 | Javascript / Typescript  | React Native | Azure Services | Node |
 | CSS / SASS  | Swift | AWS Services | Python |
 | HTML / HMTL+  | | Firebase Services | Java |
-| React  | | Mongo / Mongo Atlas| Go |
+| React  | | Mongo / Mongo Atlas|  |
 | Angular  | | | |
 | Vue  | | | |
 
