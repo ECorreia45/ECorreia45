@@ -10,17 +10,6 @@ I am a Software Engineer passionate about building and sharing software toolings
 
 Check my Pinned projects below for more or my [Before Semicolon Repo](https://github.com/beforesemicolon)
 
-### Here is the tech stack I am passionate about 💻 
-
-| Web Development | Mobile Development | Cloud Development | Backend
-| ------------- | ------------- | ------------- | ------------- |
-| Javascript / Typescript  | React Native | Azure Services | Node |
-| CSS / SASS  | Swift | AWS Services | Python |
-| HTML / HMTL+  | | Mongo / Mongo Atlas | Java |
-| React  | | |  |
-| Angular  | | | |
-| Vue  | | | |
-
 ### Other Topics I Love;
 
 - Search Engine Optimization/Marketing;
