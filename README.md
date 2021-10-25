@@ -10,12 +10,14 @@ I am a Software Engineer passionate about building and sharing software toolings
 
 Check my Pinned projects below for more or my [Before Semicolon Repo](https://github.com/beforesemicolon)
 
-### Other Topics I Love;
+### Programming Topics I Love;
 
+- Web Development/Animation
 - Search Engine Optimization/Marketing;
 - User Experience;
 - Web Accessibility;
-- Software Architecture;
+- Software Architecture and design;
+- Data Structures
 - Cloud Computing and Architecture;
 - Serverless or Offline Applications;
 - Progressive Web Applications;
