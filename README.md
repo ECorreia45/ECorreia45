@@ -11,13 +11,16 @@ I am a Software Engineer passionate about building and sharing software toolings
 ---
 
 ## Projects I am Currently Working on:
-- [Web Component Library](https://github.com/beforesemicolon/cwco)
-- [HTML+ SSR Template Language and Site Builder](https://html-plus.beforesemicolon.com/)
+- [Flatlist React](https://www.npmjs.com/package/flatlist-react) - A swiss knife component for handling data in React
+- [Client Storage](https://github.com/beforesemicolon/client-web-storage) - A better way to handle data storage and application state data on the web client
+- [Web Component Library](https://github.com/beforesemicolon/cwco) - An easier way to work with Web Components and create powerful applications
 
-Check my Pinned projects below for more or my [Before Semicolon Repo](https://github.com/beforesemicolon)
+Check my Pinned projects above for more or my [Before Semicolon Repo](https://github.com/beforesemicolon)
 
 ### Programming Topics I Love;
 
+- Amazon Web Services
+- Developer Career
 - Web Development/Animation
 - Search Engine Optimization/Marketing;
 - User Experience;
@@ -25,7 +28,7 @@ Check my Pinned projects below for more or my [Before Semicolon Repo](https://gi
 - Software Architecture and design;
 - Data Structures
 - Cloud Computing and Architecture;
-- Serverless or Offline Applications;
+- Serverless and Offline Applications;
 - Progressive Web Applications;
 - 3D Modeling and Programming;
 
