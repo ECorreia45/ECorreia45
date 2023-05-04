@@ -11,9 +11,9 @@ I am a Software Engineer passionate about building and sharing software toolings
 ---
 
 ## Open Source Projects I am Currently Working on:
-- [Flatlist React](https://www.npmjs.com/package/flatlist-react) - A swiss knife component for handling data in React
-- [Client Web Storage](https://github.com/beforesemicolon/client-web-storage) - A better way to handle data storage and application state data on the web client
 - [Web Component Library](https://github.com/beforesemicolon/cwco) - An easier way to work with Web Components and create powerful applications
+- [Client Web Storage](https://github.com/beforesemicolon/client-web-storage) - A better way to handle data storage and application state data on the web client
+- [Flatlist React](https://www.npmjs.com/package/flatlist-react) - A swiss knife component for handling data in React
 
 You can find even more by checking my [Before Semicolon Space](https://github.com/beforesemicolon)
 
