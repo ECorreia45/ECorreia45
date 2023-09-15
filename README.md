@@ -4,10 +4,10 @@ I am a Frontend Engineer passionate about building and sharing software toolings
 
 
 ## Projects I am Currently Working on:
+- [Web UI Framework](https://www.npmjs.com/package/@beforesemicolon/cube) - Simpler way to build entire Web Components Interface
 - [Reactive HTML Templating System](https://www.npmjs.com/package/@beforesemicolon/html) - Powerful and simple way to create UI with reactive HTML
 - [Web Component Library](https://github.com/beforesemicolon/cwco) - An easier way to work with Web Components and create powerful applications
 - [Simple JSON File-based Database](https://www.npmjs.com/package/@beforesemicolon/node-json-db) - Simple DB solution for node to get started quickly
-- [UI Framework](https://www.npmjs.com/package/@beforesemicolon/cube) - Simpler way to build entire Web Components Interface
 - [Client Web Storage](https://github.com/beforesemicolon/client-web-storage) - A better way to handle data storage and application state data on the web client
 - [Flatlist React](https://www.npmjs.com/package/flatlist-react) - A swiss knife component for handling data in React
 - [Modular and Blazing Fast HTML Parser](https://www.npmjs.com/package/@beforesemicolon/html-parser) - Finally a HTML parser that lets you define the interface and tap into nodes as being parsed
