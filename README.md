@@ -4,7 +4,7 @@ I am a Frontend Engineer passionate about building and sharing software toolings
 
 
 ## Projects I am Currently Working on:
-- [[Markup](https://markup.beforesemicolon.com/) - HTML Templating System for Client & Server
+- [Markup](https://markup.beforesemicolon.com/) - HTML Templating System for Client & Server
 - [Flatlist React](https://www.npmjs.com/package/flatlist-react) - A Swiss knife component for handling data in React
 - [Web Component Library](https://github.com/beforesemicolon/cwco) - Web Components library to build UI
 - [Client Web Storage](https://github.com/beforesemicolon/client-web-storage) - One API to unify all client-side storage APIs (IndexedDb, localStorage, in-memory, and Web SQL). Asynchronous and Event-Driven
