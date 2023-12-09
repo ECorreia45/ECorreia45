@@ -4,13 +4,14 @@ I am a Frontend Engineer passionate about building and sharing software toolings
 
 
 ## Projects I am Currently Working on:
+- [[Markup](https://markup.beforesemicolon.com/) - HTML Templating System for Client & Server
+- [Flatlist React](https://www.npmjs.com/package/flatlist-react) - A Swiss knife component for handling data in React
 - [Web Component Library](https://github.com/beforesemicolon/cwco) - Web Components library to build UI
-- [Web UI Framework](https://www.npmjs.com/package/@beforesemicolon/cube) - Framework to build UI
-- [Client Web Storage](https://github.com/beforesemicolon/client-web-storage) - One API to unify all client-side storage APIs (IndexedDb, localStorage, in-memory, and Web SQL). Asyncronous and Event-Driven
-- [Reactive HTML Templating System](https://www.npmjs.com/package/@beforesemicolon/html) - Powerful and simple way to create UI with reactive HTML
-- [Simple JSON File-based Database](https://www.npmjs.com/package/@beforesemicolon/node-json-db) - Simple DB solution for node to get started quickly
-- [Flatlist React](https://www.npmjs.com/package/flatlist-react) - A swiss knife component for handling data in React
-- [Modular and Blazing Fast HTML Parser](https://www.npmjs.com/package/@beforesemicolon/html-parser) - Finally a HTML parser that lets you define the interface and tap into nodes as being parsed
+- [Client Web Storage](https://github.com/beforesemicolon/client-web-storage) - One API to unify all client-side storage APIs (IndexedDb, localStorage, in-memory, and Web SQL). Asynchronous and Event-Driven
+- [Simple JSON File-based Database](https://www.npmjs.com/package/@beforesemicolon/node-json-db) - Simple DB solution for Node to get started quickly
+- [Modular and Blazing Fast HTML Parser](https://www.npmjs.com/package/@beforesemicolon/html-parser) - Finally, an HTML parser that lets you define the interface and tap into nodes as being parsed
+
+You can find even more projects of mine by checking my [Before Semicolon Space](https://github.com/beforesemicolon)
 
 ## Where I share my craft and knowledge
 
@@ -19,13 +20,12 @@ I am a Frontend Engineer passionate about building and sharing software toolings
 [![Twitter Follow](https://img.shields.io/twitter/follow/ecorreia__?style=social)](https://twitter.com/ecorreia__)
 [![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCrU33aw1k9BqTIq2yKXrmBw?style=social)](https://www.youtube.com/channel/UCrU33aw1k9BqTIq2yKXrmBw)
 
-You can find even more by checking my [Before Semicolon Space](https://github.com/beforesemicolon)
-
 ### Programming Topics I Love;
 
 - Amazon Web Services
 - Developer Career
-- Web Development/Animation
+- Web Development
+- Web Animation
 - Search Engine Optimization/Marketing;
 - User Experience;
 - Web Accessibility;
