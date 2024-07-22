@@ -3,7 +3,7 @@
 I am a Software Engineer passionate about building and sharing software toolings and knowledge.
 
 
-## Projects:
+## Side Projects:
 - [Markup](https://markup.beforesemicolon.com/) - HTML Templating System for Client & Server
 - [Flatlist React](https://www.npmjs.com/package/flatlist-react) - A Swiss knife component for handling data in React
 - [Web Component Library](https://github.com/beforesemicolon/cwco) - Web Components library to build UI
