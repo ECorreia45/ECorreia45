@@ -17,5 +17,3 @@ You can find even more projects of mine by checking my [Before Semicolon](https:
 ### Let's get in touch 📫
 
 - Find me on [Linkedin](https://www.linkedin.com/in/elsoncorreia/)
-
-[click here to loop](http://elsoncorreia.com/)
