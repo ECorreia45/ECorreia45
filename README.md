@@ -7,6 +7,7 @@ I am a Software Engineer passionate about building and sharing software toolings
 - [Markup](https://markup.beforesemicolon.com/) - HTML Templating System for Client & Server
 - [Web Component](https://web-component.beforesemicolon.com/) - Web Components library to build UI
 - [Router](https://router.beforesemicolon.com/) - Web Components based router
+- [Intl](https://intl.beforesemicolon.com/) - Web Components based localization
 - [Flatlist React](https://www.npmjs.com/package/flatlist-react) - A Swiss knife component for handling data in React
 - [Client Web Storage](https://github.com/beforesemicolon/client-web-storage) - One API to unify all client-side storage APIs (IndexedDb, localStorage, in-memory, and Web SQL). Asynchronous and Event-Driven
 - [Simple JSON File-based Database](https://www.npmjs.com/package/@beforesemicolon/node-json-db) - Simple DB solution for Node to get started quickly
